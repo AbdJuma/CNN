@@ -1,0 +1,17 @@
+model=alexnet_style_ahdd
+device=cpu
+accuracy=0.100000
+macro_f1=0.018182
+mean=25.863892
+std=69.939911
+max_epochs=25
+patience=3
+batch_size=64
+lr=0.01
+weight_decay=0.0005
+label_smoothing=0.02
+augment=False
+fc_dim=1024
+use_lrn=True
+dropout=0.5
+elapsed_sec=1797.24
